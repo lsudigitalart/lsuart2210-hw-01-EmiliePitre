@@ -5,7 +5,7 @@ function setup() {
   fill(150)
   strokeWeight(0)
   ellipse(50, 100, 5,20);
-  strokeWeight(5)
+  strokeWeight(8)
   ellipse(400, 200, 60,75);
   ellipse(300, 100, 50, 30);
 
